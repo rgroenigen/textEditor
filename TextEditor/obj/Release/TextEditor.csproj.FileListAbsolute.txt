@@ -1,0 +1,10 @@
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Form1.resources
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.cache
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csproj.CoreCompileInputs.cache
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.exe
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.pdb
+D:\Documents\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csprojAssemblyReference.cache
